@@ -20,6 +20,9 @@ This project is a fully functional chat application developed using the MERN sta
 
 ### Tools and Technologies Used
 **Frontend:** React.js, Redux, Axios, Material-UI
+
 **Backend:** Node.js, Express.js, Socket.IO
+
 **Database:** MongoDB, Mongoose
+
 **Authentication:** JWT, Bcrypt
